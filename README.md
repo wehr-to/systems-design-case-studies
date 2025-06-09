@@ -49,3 +49,5 @@ Many systems are analyzed through a security lens:
 - Building muscle memory around trade-off analysis
 - Demonstrating high-level engineering thinking
 
+## Helpful resources
+ByteByteGo's fundamentals course: https://youtube.com/playlist?list=PLCRMIe5FDPsd0gVs500xeOewfySTsmEjf&si=_Yd5rjhaW29u8qh1
